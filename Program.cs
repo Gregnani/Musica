@@ -41,7 +41,7 @@ Console.WriteLine("A maldade 'tá em quem mordeu a maçã");
 Console.WriteLine("Ih, ih, ih");
 Console.WriteLine("No final, eu vou ser mais que esses pelas");
 Console.WriteLine("Vão ter que me aturar, yeah");
-Console.ForegroundColor = ConsoleColor.Cyan
+Console.ForegroundColor = ConsoleColor.Cyan;
 Console.WriteLine("Joga esse Mustang preto na minha garagem, yeah");
 Console.WriteLine("Ou uma Benz, ou uma Lambo, tanto faz, yeah");
 Console.WriteLine("No futuro, eu me vi comprando carros que me convenham, yeah");
